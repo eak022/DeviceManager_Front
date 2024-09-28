@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+    width: 100%; /* หรือค่าที่เหมาะสม */
+    max-width: 400px; /* กำหนดความกว้างสูงสุด */
+    height: auto;
+    margin: 0 auto; /* จัดกลาง */
+    padding: 1rem; /* หรือค่าที่เหมาะสม */
+  }
+  
